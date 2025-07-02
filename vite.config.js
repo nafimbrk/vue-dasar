@@ -13,6 +13,13 @@ export default defineConfig({
         say_hello: 'say-hello.html',
         style: 'style.html',
         score: 'score.html',
+        todolist: 'todolist.html',
+        contact: 'contact.html',
+        product: 'product.html',
+        note: 'note.html',
+        home: 'button.html',
+        home: 'home.html',
+        profile: 'profile.html'
       }
     }
   }
